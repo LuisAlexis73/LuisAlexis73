@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LuisAlexis73
-- 👀 I’m interested in ... Desarrollo web y programación
-- 🌱 I’m currently learning ...En constante aprendizaje, pero muy interesado en JS y PHP
-- 💞️ I’m looking to collaborate on ...Proyectos freelance que requieran habilidades basicas XD
-- 📫 How to reach me ... Facebook es la red social que mas utilizo pero tambien tengo mi web https://alexisgalarza.com (aun en formacion no esperen nada jaa)
+- 👀 I’m interested in ... web development and programming
+- 🌱 I’m currently learning ...in constant learning, love JS an PHP learning backend
+- 💞️ I’m looking to collaborate on ... freelance proyects... open main XD
+- 📫 How to reach me ...  mi web https://alexisgalarza.com (coming soon)
 
 
 <!---
