@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LuisAlexis73
-- 👀 I’m interested in ... web development and programming
+- 👀 I’m interested in ... web development and programming, I'm more interested in the backend.
 - 🌱 I’m currently learning ...in constant learning, love JS an PHP learning backend
 - 💞️ I’m looking to collaborate on ... freelance proyects... open main XD
 - 📫 How to reach me ...  mi web https://alexisgalarza.com (coming soon)
