@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... web development and programming, I'm more interested in the backend.
 - 🌱 I’m currently learning ...in constant learning, love JS an PHP learning backend
 - 💞️ I’m looking to collaborate on ... freelance proyects... open main XD
-- 📫 How to reach me ...  mi web https://alexisgalarza.com (coming soon)
+- 📫 How to reach me ...  la.galarza@outlook.com -- +54 3456472079 wspp..
 
 
 <!---
