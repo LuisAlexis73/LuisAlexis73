@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi, I’m LuisAlexis<br>I’m interested in ... web development and programming, <br>I'm more interested in the backend.<br>I’m currently learning ... in constant learning, love Java, JavaScript and everything that drives me to improve both in programming and <br>in communication.... learning backend.<br>I’m looking to collaborate on ... freelance proyects... open main<br>How to reach me ... la.galarza@outlook.com -- www.linkedin.com/in/luis-alexis-galarza -- https://www.instagram.com/luis_alexis73/ +54 3456472079 wspp
+ Hi, I’m LuisAlexis<br>I’m interested in ... web development and programming, <br>I'm more interested in the backend.<br>I’m currently learning ... in constant learning, love Java, JavaScript and everything that drives me to improve both in programming and <br>in communication.... learning backend.<br>I’m looking to collaborate on ... freelance proyects... open main<br>
 
 
 ## 🌐 Socials:
