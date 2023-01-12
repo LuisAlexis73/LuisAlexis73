@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi, I’m LuisAlexis<br>I’m interested in web development and programming, <br>More interested in the backend.<br>In constant learning, love Java, JavaScript and everything that drives me to improve both in programming and <br>in communication... learning backend.<br>I’m looking to collaborate on freelance proyects.<br>
+## Hi, I’m LuisAlexis<br>I’m interested in web development and programming, <br>More interested in the backend.<br>In constant learning, love Java, JavaScript and everything that drives me to improve both in programming and in communication... learning backend with Java.<br>I’m looking to collaborate on freelance proyects.<br>
 
 
 ## 🌐 Socials:
