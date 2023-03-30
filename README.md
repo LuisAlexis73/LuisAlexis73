@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi, I’m Luis Alexis<br>I’m interested in web development and programming, <br>More interested in the backend.<br>In constant learning, love Java, JavaScript and everything that drives me to improve both in programming and in communication... learning backend with Java.<br>I’m looking to collaborate on freelance proyects.<br>
+## ¡Hola! soy Luis Alexis<br>Desarrollador web y programador de interfaces.<br>Mi experiencia en el desarrollo web me ha permitido trabajar en diferentes proyectos en los que he implementado soluciones escalables y eficientes utilizando estas tecnologías. Soy un apasionado de la programación y siempre estoy buscando aprender nuevas tecnologías y metodologías que me permitan mejorar mi trabajo y aportar valor a los proyectos en los que participo.<br>Además, me gusta trabajar en equipo y colaborar con otros desarrolladores para lograr los objetivos del proyecto.<br>
 
 
 ## 🌐 Socials:
