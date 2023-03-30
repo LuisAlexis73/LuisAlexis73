@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre Mi:
 ## ¡Hola! soy Luis Alexis<br>Desarrollador web y programador de interfaces.<br>Mi experiencia en el desarrollo web me ha permitido trabajar en diferentes proyectos en los que he implementado soluciones escalables y eficientes utilizando tecnologías web tanto front-end como back-end.<br> Soy un apasionado de la programación y siempre estoy buscando aprender nuevas tecnologías y metodologías que me permitan mejorar mi trabajo y aportar valor a los proyectos en los que participo.<br>Además, me gusta trabajar en equipo y colaborar con otros desarrolladores para lograr los objetivos del proyecto.<br>
 
 
