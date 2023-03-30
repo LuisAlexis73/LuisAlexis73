@@ -1,7 +1,11 @@
-# 💫 Sobre Mi:
-## ¡Hola! soy Luis Alexis<br>Desarrollador web y programador de interfaces.<br>Mi experiencia en el desarrollo web me ha permitido trabajar en diferentes proyectos en los que he implementado soluciones escalables y eficientes utilizando tecnologías web tanto front-end como back-end.<br> Soy un apasionado de la programación y siempre estoy buscando aprender nuevas tecnologías y metodologías que me permitan mejorar mi trabajo y aportar valor a los proyectos en los que participo.<br>Además, me gusta trabajar en equipo y colaborar con otros desarrolladores para lograr los objetivos del proyecto.<br>
+# 💫 About Me:
+## Hi! I'm Luis Alexis<br>
+Web developer and front-end programmer.<br>
+My experience in web development has allowed me to work in different projects in which I have implemented scalable and efficient solutions using both front-end and back-end web technologies.<br>
+I am passionate about programming and I am always looking to learn new technologies and methodologies that allow me to improve my work and add value to the projects in which I participate.<br>
+In addition, I like to work in a team and collaborate with other developers to achieve project goals.
 
-#### Si buscas un desarrollador web con experiencia y pasión por la programación, no dudes en contactarme para discutir cómo puedo ayudarte en tu proyecto.
+If you are looking for an experienced web developer with a passion for programming, feel free to contact me to discuss how I can help you with your project.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/luisalexis1990) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luis_alexis73/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-alexis-galarza) 
