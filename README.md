@@ -1,6 +1,6 @@
 # 💫 About Me:
 ## Hi! I'm Luis Alexis<br>
-Web developer and full stack programmer.<br>
+Programmer and full stack web developer.<br>
 My experience in web development has allowed me to work in different projects in which I have implemented scalable and efficient solutions using both front-end and back-end web technologies.<br>
 I am passionate about programming and I am always looking to learn new technologies and methodologies that allow me to improve my work and add value to the projects in which I participate.<br>
 In addition, I like to work in a team and collaborate with other developers to achieve project goals.
