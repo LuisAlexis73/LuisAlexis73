@@ -1,11 +1,11 @@
 # 💫 About Me:
 ## Hi! I'm Luis Alexis<br>
-Programmer and full stack web developer.<br>
-My experience in web development has allowed me to work in different projects in which I have implemented scalable and efficient solutions using both front-end and back-end web technologies.<br>
-I am passionate about programming and I am always looking to learn new technologies and methodologies that allow me to improve my work and add value to the projects in which I participate.<br>
-In addition, I like to work in a team and collaborate with other developers to achieve project goals.
+Full-Stack Web Developer.<br>
+I have experience developing scalable and efficient web solutions, working across both front-end and back-end technologies. I'm passionate about programming and the ever-evolving tech landscape, always eager to learn new tools and methodologies to enhance my work and add value to every project.
 
-If you are looking for an experienced web developer with a passion for programming, feel free to contact me to discuss how I can help you with your project.
+I enjoy collaborating with teams, exchanging ideas, and sharing knowledge with other developers to create high-impact solutions.<br>
+
+If you're looking for an experienced and committed web developer, I'd love to discuss how I can contribute to your project.
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-alexis-galarza) 
