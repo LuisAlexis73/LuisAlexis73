@@ -1,11 +1,11 @@
-# 💫 About Me:
-## Hi! I'm Luis Alexis<br>
-Full-Stack Web Developer.<br>
-I have experience developing scalable and efficient web solutions, working across both front-end and back-end technologies. I'm passionate about programming and the ever-evolving tech landscape, always eager to learn new tools and methodologies to enhance my work and add value to every project.
+# 💫 Sobre mi:
+## Hola, soy Luis Alexis<br>
+Desarrollador web con experiencia en frontend y backend, enfocado en la creación de aplicaciones escalables, mantenibles y alineadas con las necesidades de cada proyecto.<br>
 
-I enjoy collaborating with teams, exchanging ideas, and sharing knowledge with other developers to create high-impact solutions.<br>
+Me interesa construir soluciones que simplifiquen procesos, mejoren la gestión de los negocios y aporten valor real a los usuarios. Disfruto colaborar con otros profesionales, compartir conocimientos y enfrentar nuevos desafíos técnicos.<br>
 
-If you're looking for an experienced and committed web developer, I'd love to discuss how I can contribute to your project.
+Actualmente continúo ampliando mis conocimientos y participando en proyectos donde puedo aportar mi experiencia y seguir creciendo profesionalmente.<br>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/luis-alexis-galarza/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:la.galarza@outlook.com)
